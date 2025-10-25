@@ -1,19 +1,28 @@
-# Exploratory Data Analysis on Cars Dataset
+# 🚗 Exploratory Data Analysis on Cars Dataset  
 
-This Jupyter Notebook performs EDA on a Kaggle cars dataset, including data cleaning, visualization, and correlation analysis.
+Welcome to the **Cars Dataset EDA Project!**  
+This Jupyter Notebook dives into car data from Kaggle — exploring, cleaning, and visualizing it to uncover key insights about vehicle features and pricing.  
 
-## Dataset
-- Source: Kaggle (download [Cars_data.csv](https://www.kaggle.com/datasets/... ) and place in the repo root).
-- Features: Make, Model, Year, Engine details, MPG, Price, etc.
+---
 
-## Setup
-1. Install dependencies: `pip install -r requirements.txt`
-2. Run the notebook: `jupyter notebook EDA_Assignment_Day_14_completed.ipynb`
+## 📊 Dataset Overview  
+**Source:** [Kaggle - Cars Dataset](https://www.kaggle.com/datasets/...)  
+**File:** `Cars_data.csv`  
 
-## Key Sections
-- Data Loading and Cleaning
-- Summary Statistics
-- Visualizations (e.g., count plots, heatmap)
+**Main Features:**  
+- 🏷️ **Make** — Manufacturer name  
+- 🚘 **Model** — Car model  
+- 📅 **Year** — Manufacturing year  
+- ⚙️ **Engine details** — Engine type, horsepower, etc.  
+- ⛽ **MPG** — Mileage per gallon  
+- 💰 **Price** — Selling price  
 
-## License
-MIT
+> 📂 Make sure to place `Cars_data.csv` in the **root directory** before running the notebook.
+
+---
+
+## ⚙️ Setup Instructions  
+
+1️⃣ **Install dependencies**  
+```bash
+pip install -r requirements.txt
